@@ -1,5 +1,12 @@
-### Hi there 👋
-
+## MisakaE
+##### 高三在读，退役OIer
+#### 正在做的事情
+* 学习Rust+fltk-rs
+* Rust后端，Java后端
+* C++ 的项目开发
+* 高考复习
+#### Find ME
+* bilibili，qq同名
 <!--
 **MisakaE/MisakaE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
