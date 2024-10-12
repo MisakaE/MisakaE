@@ -1,10 +1,9 @@
 ## MisakaE
-##### 高三在读，退役OIer
+##### 大一在读，ACMer
 #### 正在做的事情
 * 学习Rust+fltk-rs
 * Rust后端，Java后端
 * C++ 的项目开发
-* 高考复习
 #### Find ME
 * bilibili，qq同名
 <!--
