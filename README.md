@@ -1,8 +1,9 @@
 ## MisakaE
 ##### 大一在读，ACMer
 #### 正在做的事情
-* 学习Rust+fltk-rs
-* Rust后端，Java后端
+* 学习Rust
+* 学习ACM
+* Rust后端，Vue前端
 * C++ 的项目开发
 #### Find ME
 * bilibili，qq同名
